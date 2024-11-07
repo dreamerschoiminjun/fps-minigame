@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\fps-minigame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|e:\\fps-minigame\\assets\\scripts\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|e:\\fps-minigame\\assets\\scripts\\item\\commonitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\commonitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|e:\\fps-minigame\\assets\\scripts\\item\\gameitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\gameitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|E:\\fps-minigame\\assets\\scripts\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|E:\\fps-minigame\\assets\\scripts\\enemy\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|e:\\fps-minigame\\assets\\scripts\\character\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|e:\\fps-minigame\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A08DAC-EE0D-D232-B046-10555D7D5616}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonItem.cs",
+              "DocumentMoniker": "E:\\fps-minigame\\Assets\\Scripts\\item\\CommonItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\item\\CommonItem.cs",
+              "ToolTip": "E:\\fps-minigame\\Assets\\Scripts\\item\\CommonItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\item\\CommonItem.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwFAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:52:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterStats.cs",
+              "DocumentMoniker": "E:\\fps-minigame\\Assets\\Scripts\\character\\CharacterStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\character\\CharacterStats.cs",
+              "ToolTip": "E:\\fps-minigame\\Assets\\Scripts\\character\\CharacterStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\character\\CharacterStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:30:42.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameItem.cs",
+              "DocumentMoniker": "E:\\fps-minigame\\Assets\\Scripts\\item\\GameItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\item\\GameItem.cs",
+              "ToolTip": "E:\\fps-minigame\\Assets\\Scripts\\item\\GameItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\item\\GameItem.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:51:08.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\fps-minigame\\Assets\\Scripts\\item\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\item\\Item.cs",
+              "ToolTip": "E:\\fps-minigame\\Assets\\Scripts\\item\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\item\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:50:51.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\fps-minigame\\Assets\\Scripts\\enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\Enemy.cs",
+              "ToolTip": "E:\\fps-minigame\\Assets\\Scripts\\enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:41:34.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "E:\\fps-minigame\\Assets\\Scripts\\enemy\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\EnemyStats.cs",
+              "ToolTip": "E:\\fps-minigame\\Assets\\Scripts\\enemy\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\EnemyStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:40:53.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "player.cs",
+              "DocumentMoniker": "E:\\fps-minigame\\Assets\\Scripts\\character\\player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\character\\player.cs",
+              "ToolTip": "E:\\fps-minigame\\Assets\\Scripts\\character\\player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\character\\player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:51:08.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
